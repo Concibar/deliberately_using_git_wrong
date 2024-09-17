@@ -3,7 +3,7 @@
 We are testing how to resolve git merge conflicts and other git fuckups.
 
 # What is git?
-Brian: 
+Brian: Insert wrong answer here
 Jan: 
 Jacobi: 
 Jacob: 
