@@ -1,4 +1,5 @@
 # deliberately_using_git_wrong
+
 We are testing how to resolve git merge conflicts and other git fuckups.
 
 # What is git?
@@ -30,3 +31,5 @@ Brian:
 Jan: 
 Jacobi: 
 Jacob: 
+
+resolved merge conflict
