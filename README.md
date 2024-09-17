@@ -1,3 +1,35 @@
 # deliberately_using_git_wrong
-testing how to resolve git merge conflicts and other fuckups with students Teching chidern how to not fuck up their git
-Teching chidern how to not fuck up their git
+
+We are testing how to resolve git merge conflicts and other git fuckups.
+
+# What is git?
+Brian: 
+Jan: 
+Jacobi: 
+Jacob: 
+
+# What is a repository?
+Brian: 
+Jan: 
+Jacobi: 
+Jacob: 
+
+# What is github?
+Brian: 
+Jan: 
+Jacobi: 
+Jacob: 
+
+# What is a branch?
+Brian: 
+Jan: 
+Jacobi: 
+Jacob: 
+
+# What is a git merge conflict?
+Brian: 
+Jan: 
+Jacobi: 
+Jacob: 
+
+resolved merge conflict
