@@ -5,7 +5,7 @@ We are testing how to resolve git merge conflicts and other git fuckups.
 # What is git?
 Brian: 
 Jan: 
-Jacobi: 
+Jacobi: git is a verison control system
 Jacob: 
 
 # What is a repository?
